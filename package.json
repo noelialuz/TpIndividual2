@@ -1,0 +1,24 @@
+{
+  "name": "tpindividual2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noelialuz/TpIndividual2.git"
+  },
+  "author": "None_luz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noelialuz/TpIndividual2/issues"
+  },
+  "homepage": "https://github.com/noelialuz/TpIndividual2#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
